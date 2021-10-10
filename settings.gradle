@@ -1,0 +1,2 @@
+rootProject.name = "Mall Admin"
+include ':app'
